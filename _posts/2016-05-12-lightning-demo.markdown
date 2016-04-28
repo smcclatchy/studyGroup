@@ -1,5 +1,5 @@
 ---
-title: Study Group Lightning Demo Series
+title: Lightning Demo Series
 text: Lightning demos are brief demonstrations of a tool or bit of code that solves a common problem in research.
 location: ERB 2519
 link: https://github.com/smcclatchy/studyGroup/issues/1
