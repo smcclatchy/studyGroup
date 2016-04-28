@@ -19,7 +19,7 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome to the JAX Data Analysis Study Group!"
+headlineSmall: "Welcome To Our Study Group!"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
@@ -29,8 +29,8 @@ headlineMain: "Let's Work Together"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: "https://www.google.com/calendar/embed?src=smcclatchy1@gmail.com"
-calendar_ical_url: "https://www.google.com/calendar/ical/smcclatchy1@gmail.com/public/basic.ics"
+calendar_embed_url: "https://www.google.com/calendar/embed?src=i60o21fpn363ggetqjlli6vo94%40group.calendar.google.com"
+calendar_ical_url: "https://www.google.com/calendar/ical/i60o21fpn363ggetqjlli6vo94@group.calendar.google.com/public/basic.ics"
 
 
 #========================================
