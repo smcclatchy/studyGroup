@@ -1,6 +1,6 @@
 ---
 title: Co-working Session
-text: Lightning demos are brief demonstrations of a tool or bit of code that solve a common problem in research.
+text: An open session to work on projects and ask each other questions.
 location: ERB 1405
 link: https://github.com/smcclatchy/studyGroup/issues/3
 date: 2016-05-20
