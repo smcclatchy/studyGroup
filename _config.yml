@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: JAX Data Analysis Study Group
+title: JAX Data Science Study Group
 description: "A study group for learning programming and analysis of biomedical data."
 language: en
 
