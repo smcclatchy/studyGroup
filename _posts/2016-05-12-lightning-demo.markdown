@@ -1,9 +1,0 @@
----
-title: Lightning Demo Series
-text: Lightning demos are brief demonstrations of a tool or bit of code that solve a common problem in research.
-location: ERB 2519
-link: https://github.com/smcclatchy/studyGroup/issues/1
-date: 2016-05-12
-startTime: '14:00'
-endTime: '15:00'
----
