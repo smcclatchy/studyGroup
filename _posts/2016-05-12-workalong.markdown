@@ -1,5 +1,5 @@
 ---
-title: Work-along: Data Organization in Spreadsheets
+title: Work-along - Data Organization in Spreadsheets
 text: A hands-on guided tour of good data organization practices for more effective data wrangling.
 location: B53 ERB 2519
 link: https://github.com/smcclatchy/studyGroup/issues/5
