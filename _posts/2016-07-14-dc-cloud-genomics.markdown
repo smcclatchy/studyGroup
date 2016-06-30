@@ -1,5 +1,5 @@
 ---
-title: POSTPONED: Data Carpentry Cloud Genomics
+title: POSTPONED - Data Carpentry Cloud Genomics
 text: A two-day workshop for sequence data analysis on the cloud. Click link above for software requirements. Beginners welcome.
 location: Staff Conference Room
 link: https://github.com/smcclatchy/studyGroup/issues/7
