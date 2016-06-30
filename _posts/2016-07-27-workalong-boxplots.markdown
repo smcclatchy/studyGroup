@@ -1,5 +1,5 @@
 ---
-title: Publication Quality Graphics with R (Boxplots)
+title: Workalong - Publication Quality Graphics with R (Boxplots)
 text: A hands-on session with the ggplot2 package in R. Beginners welcome.
 location: GRB 3225
 link: https://github.com/smcclatchy/studyGroup/issues/16
