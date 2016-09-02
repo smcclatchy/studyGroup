@@ -1,5 +1,5 @@
 ---
-title: Workalong - Data Wrangling with RStudio.
+title: Workalong - Data Wrangling with RStudio
 text: A one-hour hands-on session in structuring data to facilitate analysis. Beginners are welcome!
 location: Breezeway Training Room
 link: https://github.com/smcclatchy/studyGroup/issues/20
