@@ -1,7 +1,7 @@
 ---
 title: Workalong - R Basics
-text: A hands-on session to learn the basics in R. Beginners welcome.
-location: ERB 2535
+text: A two-hour hands-on session in R basics. Beginners are welcome!
+location: Breezeway Training Room
 link: https://github.com/smcclatchy/studyGroup/issues/17
 date: 2016-09-23
 startTime: '10:00'
