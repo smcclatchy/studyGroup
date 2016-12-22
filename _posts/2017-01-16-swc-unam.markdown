@@ -1,6 +1,6 @@
 ---
-title: Talleres Internacioneles de Bioinform\a'tica
-text:  Una semana de Software Carpentry en el Centro de Ciencias Gen\o'micas
+title: Talleres Internacionales de Bioinformatica
+text:  Una semana de Software Carpentry en el Centro de Ciencias Genomicas
 location: UNAM
 link: https://github.com/smcclatchy/studyGroup/issues/30
 date: 2017-01-16
