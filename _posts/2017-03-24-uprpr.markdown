@@ -1,0 +1,9 @@
+---
+title: Software Carpentry Instructor Training
+text: A two-day workshop in the "best practices” of teaching.
+location: UPR Río Piedras
+link: https://github.com/smcclatchy/studyGroup/issues/32
+date: 2017-03-24
+startTime: '09:00'
+endTime: '16:30'
+---
