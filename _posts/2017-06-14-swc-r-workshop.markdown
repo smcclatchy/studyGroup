@@ -1,5 +1,5 @@
 ---
-title: Software Carpentry
+title: Software Carpentry R
 text: A two-day workshop in best practices for reproducible research with R.
 location: Breezeway Bioinformatics Training Room
 link: https://github.com/smcclatchy/studyGroup/issues/39
