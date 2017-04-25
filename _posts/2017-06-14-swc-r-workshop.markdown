@@ -5,5 +5,5 @@ location: Breezeway Bioinformatics Training Room
 link: https://github.com/smcclatchy/studyGroup/issues/39
 date: 2017-06-14
 startTime: '09:00'
-endTime: '17:00'
+endTime: '16:30'
 ---
