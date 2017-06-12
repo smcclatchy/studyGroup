@@ -1,4 +1,4 @@
- ---
+---
 title: Software Carpentry Instructor Training
 text: A two-day workshop in the "best practices" of teaching
 location: JAX-MG (Maine)
