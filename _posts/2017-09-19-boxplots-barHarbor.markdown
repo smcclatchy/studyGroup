@@ -1,5 +1,5 @@
 ---
-title: Publication Quality Graphics with R: Kick the bar chart habit
+title: Publication Quality Graphics with R - Kick the bar chart habit
 text: A three-hour workshop in making boxplots with ggplot
 location: JAX-MG (Maine)
 link: https://github.com/smcclatchy/studyGroup/issues/49

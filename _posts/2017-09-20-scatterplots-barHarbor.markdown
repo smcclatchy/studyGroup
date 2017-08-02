@@ -1,5 +1,5 @@
 ---
-title: Publication Quality Graphics with R: Scatterplots
+title: Publication Quality Graphics with R - Scatterplots
 text: A three-hour workshop in making scatterplots with ggplot
 location: JAX-MG (Maine)
 link: https://github.com/smcclatchy/studyGroup/issues/50
