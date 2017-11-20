@@ -1,0 +1,9 @@
+---
+title: Quantitative Trait Mapping
+text: A one-day workshop in the qtl2 package for R
+location: JAX-MG (Maine)
+link: https://github.com/smcclatchy/studyGroup/issues/60
+date: 2018-01-18
+startTime: '09:00'
+endTime: '16:30'
+---
