@@ -1,0 +1,9 @@
+---
+title: Quantitative Trait Mapping
+text: A 1.5 day workshop in the qtl2 package for R
+location: Bar Harbor
+link: https://github.com/smcclatchy/studyGroup/issues/64
+date: 2018-03-20
+startTime: '09:00'
+endTime: '16:30'
+---

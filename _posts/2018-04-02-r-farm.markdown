@@ -1,0 +1,9 @@
+---
+title: R for Reproducible Scientific Analysis
+text: A two-day workshop in programming with R
+location: Farmington
+link: https://github.com/smcclatchy/studyGroup/issues/65
+date: 2018-04-02
+startTime: '12:00'
+endTime: '16:30'
+---
