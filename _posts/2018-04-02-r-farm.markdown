@@ -1,6 +1,6 @@
 ---
 title: R for Reproducible Scientific Analysis
-text: A two-day workshop in programming with R
+text: A 1.5-day workshop in programming with R
 location: Farmington
 link: https://github.com/smcclatchy/studyGroup/issues/65
 date: 2018-04-02
