@@ -1,8 +1,8 @@
 ---
-title: Programming with Python
-text: A two-day workshop in programming with Python
+title: Plotting and Programming with Python
+text: A 1.5-day workshop in plotting and programming with Python
 location: Bar Harbor
-link: https://github.com/smcclatchy/studyGroup/issues/67
+link: https://github.com/smcclatchy/studyGroup/issues/69
 date: 2018-06-14
 startTime: '09:00'
 endTime: '16:30'
