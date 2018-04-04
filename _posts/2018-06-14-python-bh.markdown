@@ -1,6 +1,6 @@
 ---
 title: Plotting and Programming with Python
-text: A 1.5-day workshop in plotting and programming with Python
+text: A two-day workshop in plotting and programming with Python
 location: Bar Harbor
 link: https://github.com/smcclatchy/studyGroup/issues/69
 date: 2018-06-14
