@@ -1,6 +1,6 @@
 ---
-title: Plotting and Programming with Python
-text: A two-day workshop in plotting and programming with Python
+title: Software Carpentry
+text: A two-day workshop in the Unix shell, Python, and git
 location: Farmington
 link: https://github.com/smcclatchy/studyGroup/issues/70
 date: 2018-07-24
