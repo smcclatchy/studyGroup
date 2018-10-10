@@ -1,0 +1,9 @@
+---
+title: Data Carpentry Genomics
+text: A two-day workshop in  data management and analysis for genomics research
+location: Farmington CT
+link: https://github.com/smcclatchy/studyGroup/issues/80
+date: 2018-11-06
+startTime: '09:00'
+endTime: '16:30'
+---
