@@ -1,9 +1,0 @@
----
-title: Plotting and Programming with Python
-text: A two-day workshop in Python for beginners
-location: Farmington CT
-link: https://github.com/smcclatchy/studyGroup/issues/81
-date: 2018-12-04
-startTime: '09:00'
-endTime: '16:30'
----
