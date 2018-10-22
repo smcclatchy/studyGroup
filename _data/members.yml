@@ -5,13 +5,13 @@
     - Bioinformatics
     - Data Visualization
     - Reproducible Research    
-- name: Narayanan Raghupathy
-  affiliation: JAX
-  github: narayananr
-  interests:
-    - Bioinformatics
-    - Computational Biology
-    - Statistics
+#- name: Narayanan Raghupathy
+#  affiliation: JAX
+#  github: narayananr
+#  interests:
+#    - Bioinformatics
+#    - Computational Biology
+#    - Statistics
 - name: Sandeep Namburi
   affiliation: JAX
   github: snamburi3
@@ -46,7 +46,7 @@
     - Bioinformatics
     - Machine Learning
 - name: Dan Gatti
-  affiliation: JAX
+  affiliation: College of the Atlantic
   github: dmgatti
   interests:
     - R
