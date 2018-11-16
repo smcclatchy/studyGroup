@@ -1,0 +1,9 @@
+---
+title: Introduction to High Performance Computing
+text: A one-day workshop for JAX employees only
+location: Farmington
+link: https://github.com/smcclatchy/studyGroup/issues/82
+date: 2018-12-07
+startTime: '09:00'
+endTime: '15:00'
+---
