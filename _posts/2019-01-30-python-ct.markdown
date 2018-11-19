@@ -1,6 +1,6 @@
 ---
 title: Plotting & Programming in Python
-text: A two-day workshop in plotting and programming with Python
+text: A 1.5-day workshop in Python, Jan 30-31
 location: Farmington
 link: https://github.com/smcclatchy/studyGroup/issues/83
 date: 2019-01-30

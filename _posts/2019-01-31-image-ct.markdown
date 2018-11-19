@@ -1,0 +1,9 @@
+---
+title: Basic Image Analysis with Python
+text: A 1.5-day workshop in image analysis, Jan 31 & Feb 1
+location: Farmington
+link: https://github.com/smcclatchy/studyGroup/issues/84
+date: 2019-01-31
+startTime: '13:30'
+endTime: '16:30'
+---
