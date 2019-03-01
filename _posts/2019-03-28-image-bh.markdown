@@ -1,0 +1,9 @@
+---
+title: Basic Image Analysis with Python
+text: A 1.5-day workshop in image analysis, Mar 28-29
+location: Bar Harbor
+link: https://github.com/smcclatchy/studyGroup/issues/89
+date: 2019-03-28
+startTime: '13:30'
+endTime: '16:30'
+---

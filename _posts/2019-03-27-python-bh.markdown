@@ -1,0 +1,9 @@
+---
+title: Plotting & Programming in Python
+text: A 1.5-day workshop in Python, Mar 27-28
+location: Bar Harbor
+link: https://github.com/smcclatchy/studyGroup/issues/88
+date: 2019-03-27
+startTime: '09:00'
+endTime: '16:30'
+---
