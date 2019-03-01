@@ -3,7 +3,7 @@ title: R for Reproducible Scientific Analysis
 text: A 2-day workshop in programming with R
 location: Farmington
 link: https://github.com/smcclatchy/studyGroup/issues/87
-date: 2012-04-02
+date: 2019-04-02
 startTime: '09:00'
 endTime: '16:30'
 ---
