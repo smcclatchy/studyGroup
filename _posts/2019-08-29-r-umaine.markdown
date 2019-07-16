@@ -3,7 +3,7 @@ title: R for Reproducible Scientific Analysis
 text: A 2-day workshop in programming with R
 location: UMaine Orono
 link: https://github.com/smcclatchy/studyGroup/issues/98
-date: 2019-09-28
+date: 2019-08-28
 startTime: '09:00'
 endTime: '16:30'
 ---
