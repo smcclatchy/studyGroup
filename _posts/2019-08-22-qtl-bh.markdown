@@ -1,0 +1,9 @@
+---
+title: Quantitative Trait Mapping
+text: A 2 day workshop in genetic mapping for the Diversity Outbred
+location: Bar Harbor
+link: https://github.com/smcclatchy/studyGroup/issues/100
+date: 2019-08-22
+startTime: '09:00'
+endTime: '16:30'
+---
