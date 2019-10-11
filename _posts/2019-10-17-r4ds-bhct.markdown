@@ -1,0 +1,9 @@
+---
+title: R for Data Science
+text: A 5-session series data wrangling and visualization
+location: The Jackson Laboratory
+link: https://github.com/smcclatchy/studyGroup/issues/103
+date: 2019-10-17
+startTime: '09:00'
+endTime: '12:00'
+---
